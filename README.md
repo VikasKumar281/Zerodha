@@ -21,3 +21,7 @@
 - Created Award , Education , Hero , HomePage , Pricing , Stats in Home Section of the Project
 
 - Created Navbar using Bootstrap
+
+- Created OpenAccount Section
+
+- Created Footer Section 
