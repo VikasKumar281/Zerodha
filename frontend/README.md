@@ -25,3 +25,6 @@
 - Created OpenAccount Section
 
 - Created Footer Section 
+
+- Installed react-router-dom 
+
