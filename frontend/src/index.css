@@ -38,3 +38,14 @@ code {
   border-radius: 10px;
   border: none;
 }
+
+.signup-btn {
+  background-color: #0d6efd; /* Bootstrap primary blue */
+  color: white;
+  border: none;
+}
+
+.signup-btn:hover {
+  background-color: black; /* Hover pe black */
+  color: white;
+}
