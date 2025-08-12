@@ -1,4 +1,5 @@
 import React from "react";
+import "../index.css"; 
 
 function OpenAccount() {
   return (
@@ -10,7 +11,7 @@ function OpenAccount() {
           F&O trades.
         </p>
         <button
-          className="p-2 btn btn-primary fs-5 mb-5"
+          className="signup-btn p-2 btn fs-5 mb-5"
           style={{ width: "20%", margin: "0 auto" }}
         >
           Sign up Now
