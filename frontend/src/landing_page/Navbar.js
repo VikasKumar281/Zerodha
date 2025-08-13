@@ -6,14 +6,14 @@ import { Link } from "react-router-dom";
 function Navbar() {
   return (
     <nav
-      class="navbar navbar-expand-lg border-bottom"
+      class="navbar navbar-expand-lg border-bottom fixed-top"
       style={{ backgroundColor: "#FFF" }}
     >
       <div class="container p-2">
         <Link class="navbar-brand" to={'/'}>
           <img
             src="media/images/logo.svg"
-            style={{ width: "25%" }}
+            style={{ width: "22%" }}
             alt="Logo"
           />
         </Link>
@@ -43,7 +43,7 @@ function Navbar() {
               </li>
               <li class="nav-item">
                 <Link class="nav-link active" to={'/product'}>
-                  Product
+                  Products
                 </Link>
               </li>
               <li class="nav-item">

@@ -14,7 +14,7 @@ function OpenAccount() {
           className="signup-btn p-2 btn fs-5 mb-5"
           style={{ width: "20%", margin: "0 auto" }}
         >
-          Sign up Now
+          Sign up for free
         </button>
       </div>
     </div>

@@ -3,15 +3,15 @@ import React from "react";
 function Pricing() {
   return (
     <div className="container">
-      <div className="row">
-        <div className="col-4">
-          <h1 className="mb-3 fs-2">Unbeatable pricing</h1>
-          <p>
+      <div className="row ">
+        <div className="col-4 ">
+          <h1 className="mb-3 fs-2" style={{ marginLeft:'55px'}}>Unbeatable pricing</h1>
+          <p style={{ marginLeft:'55px'}}>
             We pioneered the concept of discount broking and price transparency
             in India. Flat fees and no hidden charges.
           </p>
-          <a href="" style={{ textDecoration: "none" }}>
-            See Pricing{" "}
+          <a href="https://zerodha.com/charges/#tab-equities" style={{ textDecoration: "none", marginLeft:'55px' }}>
+            See pricing{" "}
             <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
           </a>
         </div>

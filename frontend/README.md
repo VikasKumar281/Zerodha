@@ -28,3 +28,6 @@
 
 - Installed react-router-dom 
 
+- created About page
+
+- Created Products page
