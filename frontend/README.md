@@ -31,3 +31,7 @@
 - created About page
 
 - Created Products page
+
+- Created Pricing Page
+
+- Created Support Page
