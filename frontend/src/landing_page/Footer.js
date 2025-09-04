@@ -1,5 +1,4 @@
 import React from "react";
-import LeftSection from "./products/LeftSection";
 
 function Footer() {
   return (
@@ -24,13 +23,13 @@ function Footer() {
               <a href="https://x.com/zerodhaonline">
                 <i className="fab fa-x-twitter" style={{ color: "#6c757d", fontSize: "20px" }}></i>
               </a>
-              <a href="#">
+              <a href="https://www.facebook.com/zerodha.social">
                 <i className="fab fa-facebook" style={{ color: "#6c757d", fontSize: "20px" }}></i>
               </a>
-              <a href="#">
+              <a href="https://www.instagram.com/zerodhaonline/">
                 <i className="fab fa-instagram" style={{ color: "#6c757d", fontSize: "20px" }}></i>
               </a>
-              <a href="#">
+              <a href="https://www.linkedin.com/company/zerodha/">
                 <i className="fab fa-linkedin" style={{ color: "#6c757d", fontSize: "20px" }}></i>
               </a>
             </div>
@@ -40,13 +39,13 @@ function Footer() {
 
             {/* Social Row 2 */}
             <div className="d-flex gap-3">
-              <a href="#">
+              <a href="https://www.youtube.com/@zerodhaonline">
                 <i className="fab fa-youtube" style={{ color: "#6c757d", fontSize: "20px" }}></i>
               </a>
-              <a href="#">
+              <a href="https://www.whatsapp.com/channel/0029Va8tzF0EquiIIb9j791g">
                 <i className="fab fa-whatsapp" style={{ color: "#6c757d", fontSize: "20px" }}></i>
               </a>
-              <a href="#">
+              <a href="https://t.me/zerodhain">
                 <i className="fab fa-telegram" style={{ color: "#6c757d", fontSize: "20px" }}></i>
               </a>
             </div>
