@@ -44,3 +44,8 @@
 - Create React Application using command => npx create-react-app dashboard.
 
 - Created Dashboard Page
+
+- Installed 2 packages -> react-router-dom & axios
+  - npm i axios react-router-dom
+
+- Created Holdings and Positions page in Dashboard  
