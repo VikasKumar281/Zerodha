@@ -49,3 +49,6 @@
   - npm i axios react-router-dom
 
 - Created Holdings and Positions page in Dashboard  
+
+- We will use MaterialUI(MUI) for icons and install the package  
+  - npm install @mui/icons-material @mui/material @emotion/styled @emotion/react
