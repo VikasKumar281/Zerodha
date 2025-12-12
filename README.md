@@ -39,16 +39,38 @@
 - Created Support Page
 
 
+
 ## Dashboard ------------------------------------------------------------>
 
 - Create React Application using command => npx create-react-app dashboard.
 
-- Created Dashboard Page
+- Created Support Component.
+
+- Created Dashboard Component.
+
+- Setup Dashboard Menu.
 
 - Installed 2 packages -> react-router-dom & axios
   - npm i axios react-router-dom
 
-- Created Holdings and Positions page in Dashboard  
+- Created Holdings and Positions Components in Dashboard  
+
+- Added data to Holding and Positions components.
 
 - We will use MaterialUI(MUI) for icons and install the package  
   - npm install @mui/icons-material @mui/material @emotion/styled @emotion/react
+
+- Created WatchList Component.
+
+
+
+## Backend (nodemon index.js)------------------------------------------------------------->
+- Setting Up MongoDb.
+
+- Connected MongoDb With Express.
+
+- Install Nodemon => npm i -D nodemon
+
+- Install Packages => npm i express body-parser cors dotenv mongoose passport passport-local passport-local-mongoose
+
+- Created Holdings Model and Holdings Schema
