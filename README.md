@@ -74,3 +74,5 @@
 - Install Packages => npm i express body-parser cors dotenv mongoose passport passport-local passport-local-mongoose
 
 - Created Holdings Model and Holdings Schema
+
+- Created Model and Schema for positions and orders
