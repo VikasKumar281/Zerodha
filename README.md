@@ -76,3 +76,10 @@
 - Created Holdings Model and Holdings Schema
 
 - Created Model and Schema for positions and orders
+
+- Install Thunder Client extension for run and testing the api calls.  
+
+- Install axios package - npm i axios
+
+- Install packages in dashboard -> npm install
+ chart.js react-chartjs-2
