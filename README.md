@@ -79,7 +79,11 @@
 
 - Install Thunder Client extension for run and testing the api calls.  
 
-- Install axios package - npm i axios
+- Install axios package - npm i axios.
 
 - Install packages in dashboard -> npm install
- chart.js react-chartjs-2
+ chart.js react-chartjs-2.
+
+ - Added API integration for holdings and positions, implement charts for data visualization.
+
+ - Unit Testing with JEST (to run the script => npm test).
